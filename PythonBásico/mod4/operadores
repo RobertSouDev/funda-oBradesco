@@ -1,0 +1,23 @@
+Operação	Símbolo
+    Adição	+
+    Subtração	-
+    Multiplicação	*
+    Divisão Real	/
+    Divisão Inteiro	//
+    Exponenciação	**
+    Resto da Divisão	%
+
+Operadores relacionais
+    Descrição	Símbolo
+    Igual a	==
+    Diferente de	!=
+    Maior que	>
+    Menor que	<
+    Maior ou igual a	>=
+    Menor ou igual a	<=
+
+Operadores lógicos
+    Algoritmo	Python
+        E	and
+        OU	or
+        Não	not
